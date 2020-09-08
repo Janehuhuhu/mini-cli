@@ -1,0 +1,16 @@
+{
+  "name": "mini-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "mini-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^6.1.0",
+    "copy-template-dir": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "ora": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
