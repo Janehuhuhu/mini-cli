@@ -1,0 +1,10 @@
+{
+  "vue": {
+    "repo": "Janehuhuhu/mini-cli",
+    "branch": "#vue-project"
+  },
+  "react": {
+    "repo": "Janehuhuhu/mini-cli",
+    "branch": "#react-project"
+  }
+}
